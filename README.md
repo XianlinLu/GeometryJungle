@@ -2,7 +2,8 @@
 
 https://ariaxxxi.github.io/GeometryJungle/
 
-![](home.gif)
+![home](https://github.com/user-attachments/assets/369a291b-a793-49a6-9aa5-0bbe9d37aff1)
+
 
 https://youtu.be/-kh2HfO1HCc
 
